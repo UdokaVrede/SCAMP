@@ -1,0 +1,2 @@
+# SCAMP
+SheCodesAfricaProject
